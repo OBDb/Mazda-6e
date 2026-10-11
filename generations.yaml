@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Mazda_6e"
+
+generations:
+  - name: "First Generation"
+    start_year: 2025
+    end_year: null
+    description: "A battery-electric sedan developed with Changan, sold in China as the EZ-6."
